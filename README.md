@@ -1,2 +1,0 @@
-# RType-documentation
-{Epitech} RType
