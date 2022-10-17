@@ -4,9 +4,9 @@ Part 1: Server
 
 Description
 ===========
-The server is the main engine that will interfere between the AI and the GUI.
-It will exchange all data with the AI and execute these instructions.
-At the same time, it send the information to the GUI.
+The server implements all the game logic. It acts as the authoritative source of game logic events in the
+game.
+
 
 Communication
 =============

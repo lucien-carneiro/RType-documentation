@@ -40,7 +40,7 @@ Contents
 ========
 .. toctree::
    Usage
-   Commands
+   Protocol
    Server
    Client
    ECS
