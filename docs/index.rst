@@ -19,9 +19,9 @@ Thus there is three parts to this project:
 
 Schema
 ======
-.. image:: assets/schema.png
+.. image:: assets/timeline.png
 
---> Represents the interaction between SERVER/IA and SERVER/GUI.
+--> Represents the roadmap of the project during 8 weeks.
 
 Information
 ===========
@@ -29,7 +29,7 @@ Information
 .. note::
 
    We are a team of 5 students on this project.
-   To divide the work, 2 people are in charge of each of the 3 parts that will be detailed in this documentation.
+   To divide the work, 2 people are in charge of the ECS, 2 others for the server/client protocol and the last one for the integration, compilation and documentation
 
 .. warning::
 
