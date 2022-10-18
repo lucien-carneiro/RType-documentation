@@ -13,9 +13,9 @@ The following documentation describe all the details and constraints.
 
 Thus there is three parts to this project:
 
-- **The server:** ...
-- **The client:** ...
-- **The Entity Component System:** ...
+- **The server:** Resource service software that responds to UPD requests
+- **The client:** Software designed to connect to a server via sockets
+- **The Entity Component System:** Software architectural pattern who represent the game world object
 
 Schema
 ======
